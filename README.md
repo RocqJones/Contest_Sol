@@ -1,6 +1,6 @@
 # Contest Solution.
 
-## ICPC(The International Collegiate Programming Contest) Regionals and Finals
+### ICPC(The International Collegiate Programming Contest) Regionals and Finals
 
             20th South African Regional International Collegiate Programming Contest
                           20 October 2018
@@ -16,8 +16,10 @@ The game works as follows:
 • Alice always takes the ﬁrst turn, after which they alternate.
 
 • The player whose turn it is performs one of two actions, depending on the current value of number at that time.
-            - If the number is a power of two, the number is divided by two.
-            – If the number is not a power of two, the largest power of two less than the number is subtracted from the number.
+
+   - If the number is a power of two, the number is divided by two.
+            
+   – If the number is not a power of two, the largest power of two less than the number is subtracted from the number.
             
 • This process repeats until there is a winner.
 
