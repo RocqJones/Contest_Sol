@@ -33,8 +33,8 @@ Input consists of an arbitrary number of test cases, but no more than 10 000. Ea
 For each test case, output the name of the winner, either “Alice” or “Bob”.
 
 --------------------
-```
 Sample input
+```
 10 
 4251 
 4 
@@ -42,8 +42,8 @@ Sample input
 -1
 ````
 ---------------------
-```
 Sample output
+```
 Bob
 Alice
 Bob 
