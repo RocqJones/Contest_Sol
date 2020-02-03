@@ -17,9 +17,8 @@ The game works as follows:
 
 • The player whose turn it is performs one of two actions, depending on the current value of number at that time.
 
-   - If the number is a power of two, the number is divided by two.
-            
-   – If the number is not a power of two, the largest power of two less than the number is subtracted from the number.
+1. If the number is a power of two, the number is divided by two.
+2. If the number is not a power of two, the largest power of two less than the number is subtracted from the number.
             
 • This process repeats until there is a winner.
 
